@@ -14,7 +14,7 @@ body {
 /* Start Head Section  */
 .banner {
   min-height: 100vh;
-  background-image: url(/images/banner-bg.png);
+  background-image: url(images/banner-bg.png);
   background-size: cover;
 }
 nav .containerNav {
@@ -433,7 +433,7 @@ nav .spans {
   padding: 120px;
 
   min-height: 50vh;
-  background-image: url(/images/video-bg.png);
+  background-image: url(images/video-bg.png);
   background-size: cover;
   margin-top: 50px;
   overflow: hidden;
